@@ -1,0 +1,270 @@
+[
+    [
+        "/Users/bmccall/Temp_2/Volunteer-App/force-app",
+        {
+            "sourcePath": "/Users/bmccall/Temp_2/Volunteer-App/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1537404930021,
+            "changeTime": 1537404930021,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/bmccall/Temp_2/Volunteer-App/force-app/main",
+        {
+            "sourcePath": "/Users/bmccall/Temp_2/Volunteer-App/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1537404930022,
+            "changeTime": 1537404930022,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1537406691723,
+            "changeTime": 1537406691723,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1537404930022,
+            "changeTime": 1537404930022,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/Temp_2/Volunteer-App",
+        {
+            "sourcePath": "/Users/bmccall/Temp_2/Volunteer-App",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1537405223797,
+            "changeTime": 1537405223797,
+            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/Volunteer_Event__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/Volunteer_Event__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2142,
+            "modifiedTime": 1537406691693,
+            "changeTime": 1537406691693,
+            "contentHash": "5e2da6a609f6a71277933af1e92e7c4dc821436d"
+        }
+    ],
+    [
+        "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/fields/Description__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 394,
+            "modifiedTime": 1537406691694,
+            "changeTime": 1537406691694,
+            "contentHash": "a0f80adf60141724916be59b21e00cd6ac246917"
+        }
+    ],
+    [
+        "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/fields/End__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/fields/End__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 343,
+            "modifiedTime": 1537406691695,
+            "changeTime": 1537406691695,
+            "contentHash": "9d2fdc7dc29c3ba64f65164ca98dd4ab90d1871b"
+        }
+    ],
+    [
+        "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/fields/Partner__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/fields/Partner__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 555,
+            "modifiedTime": 1537406691695,
+            "changeTime": 1537406691695,
+            "contentHash": "f92e3c13332c37ee557f72a227d62c0f2cff5293"
+        }
+    ],
+    [
+        "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/fields/Start__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/fields/Start__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 347,
+            "modifiedTime": 1537406691696,
+            "changeTime": 1537406691696,
+            "contentHash": "79805338941018a32724fe0931da0dee2d6a73be"
+        }
+    ],
+    [
+        "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/layouts/Volunteer_Event__c-Volunteer Event Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/layouts/Volunteer_Event__c-Volunteer Event Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2654,
+            "modifiedTime": 1537406691705,
+            "changeTime": 1537406691705,
+            "contentHash": "559282d979186f6eb3c3f07b16e85488229a9db6"
+        }
+    ],
+    [
+        "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18750,
+            "modifiedTime": 1537406691728,
+            "changeTime": 1537406691728,
+            "contentHash": "2897241eb6c7473cb84b90dde322bfd1ebdbc5a9"
+        }
+    ],
+    [
+        "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5330,
+            "modifiedTime": 1537406691732,
+            "changeTime": 1537406691732,
+            "contentHash": "5ed4eac9f32a4459c890a7f159fca3ec20af52cd"
+        }
+    ],
+    [
+        "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4992,
+            "modifiedTime": 1537406691736,
+            "changeTime": 1537406691736,
+            "contentHash": "a28a290e78adfcbf35c3d6f11598adea9a24bdbc"
+        }
+    ],
+    [
+        "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4992,
+            "modifiedTime": 1537406691739,
+            "changeTime": 1537406691739,
+            "contentHash": "a28a290e78adfcbf35c3d6f11598adea9a24bdbc"
+        }
+    ],
+    [
+        "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1537406691694,
+            "changeTime": 1537406691694,
+            "contentHash": "6145e96e01c140adc1abd5d5743d9638ab8a0a1f"
+        }
+    ],
+    [
+        "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1537406691691,
+            "changeTime": 1537406691691,
+            "contentHash": "c61ee2a57065ae8ed4497503b8ce6fae7fc57288"
+        }
+    ],
+    [
+        "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1537406691695,
+            "changeTime": 1537406691695,
+            "contentHash": "e9f20e7414de4c27e2e240d3380b9db5502dc888"
+        }
+    ],
+    [
+        "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1537406691705,
+            "changeTime": 1537406691705,
+            "contentHash": "99ad0ce06117a90cbd5fb43d2b7b01b9a1e50391"
+        }
+    ],
+    [
+        "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bmccall/Temp_2/Volunteer-App/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1537406691739,
+            "changeTime": 1537406691739,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
