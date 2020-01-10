@@ -1,0 +1,422 @@
+[
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1578415767513,
+            "changeTime": 1578415767513,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1578415767513,
+            "changeTime": 1578415767513,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1578529055164,
+            "changeTime": 1578529055164,
+            "contentHash": "035f2b429ad44c6ea5dd25d3755c07a8ade229e1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/layouts",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1578529055159,
+            "changeTime": 1578529055159,
+            "contentHash": "99ad0ce06117a90cbd5fb43d2b7b01b9a1e50391",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/layouts/Volunteer_Event__c-Volunteer Event Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/layouts/Volunteer_Event__c-Volunteer Event Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3617,
+            "modifiedTime": 1578529055159,
+            "changeTime": 1578529055159,
+            "contentHash": "f24a41f538b8182620df9b20cd5fe31f5ee81f16",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1578415767513,
+            "changeTime": 1578415767513,
+            "contentHash": "c61ee2a57065ae8ed4497503b8ce6fae7fc57288",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1578415767514,
+            "changeTime": 1578415767514,
+            "contentHash": "6145e96e01c140adc1abd5d5743d9638ab8a0a1f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/Volunteer_Event__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/Volunteer_Event__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2142,
+            "modifiedTime": 1578415767513,
+            "changeTime": 1578415767513,
+            "contentHash": "5e2da6a609f6a71277933af1e92e7c4dc821436d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1578529055159,
+            "changeTime": 1578529055159,
+            "contentHash": "1b02fe8e6a83b8cfbbe911692bd8d3f1361e2b0b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/fields/Description__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 394,
+            "modifiedTime": 1578415767514,
+            "changeTime": 1578415767514,
+            "contentHash": "a0f80adf60141724916be59b21e00cd6ac246917",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/fields/End__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/fields/End__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 343,
+            "modifiedTime": 1578415767514,
+            "changeTime": 1578415767514,
+            "contentHash": "9d2fdc7dc29c3ba64f65164ca98dd4ab90d1871b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/fields/Hours__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/fields/Hours__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 530,
+            "modifiedTime": 1578529055160,
+            "changeTime": 1578529055160,
+            "contentHash": "a3657f38cba52c2d15551130b8c7d14fba4253c7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/fields/Partner__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/fields/Partner__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 555,
+            "modifiedTime": 1578415767514,
+            "changeTime": 1578415767514,
+            "contentHash": "f92e3c13332c37ee557f72a227d62c0f2cff5293",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/fields/Start__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/objects/Volunteer_Event__c/fields/Start__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 347,
+            "modifiedTime": 1578415767515,
+            "changeTime": 1578415767515,
+            "contentHash": "79805338941018a32724fe0931da0dee2d6a73be",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/pages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1578529055160,
+            "changeTime": 1578529055160,
+            "contentHash": "e7b5459ca39a70571e74f81b74070e0a5dc5fec6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/pages/VolunteerBanner.page",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/pages/VolunteerBanner.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 161,
+            "modifiedTime": 1578529055160,
+            "changeTime": 1578529055160,
+            "contentHash": "952431eaa1f407cbaccb26f387c9a8d4d7cd4257",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/pages/VolunteerBanner.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/pages/VolunteerBanner.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 290,
+            "modifiedTime": 1578529055161,
+            "changeTime": 1578529055161,
+            "contentHash": "f3b76fcaf31107b81a247ede706a096c4b804b2a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/profiles",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1578529055162,
+            "changeTime": 1578529055162,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 21075,
+            "modifiedTime": 1578529055161,
+            "changeTime": 1578529055161,
+            "contentHash": "03b8a9223c7a4947f561206445e69890238c290f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5638,
+            "modifiedTime": 1578529055162,
+            "changeTime": 1578529055162,
+            "contentHash": "ee3c0b6c0b7dbf314bc6d39c8ee283b5da1bd710",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5638,
+            "modifiedTime": 1578529055162,
+            "changeTime": 1578529055162,
+            "contentHash": "ee3c0b6c0b7dbf314bc6d39c8ee283b5da1bd710",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5976,
+            "modifiedTime": 1578529055163,
+            "changeTime": 1578529055163,
+            "contentHash": "eaa0c0730c340bb52ccc396329108744feed0c27",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/staticresources",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1578529055164,
+            "changeTime": 1578529055164,
+            "contentHash": "d0738c7a8271b441cce52ef969e9bddb91e59fab",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/staticresources/VolunteerBanner.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/staticresources/VolunteerBanner.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 54128,
+            "modifiedTime": 1578529055164,
+            "changeTime": 1578529055164,
+            "contentHash": "177e2324d7653b5be08da266e4d8c8d5c0deb388",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/staticresources/VolunteerBanner.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/staticresources/VolunteerBanner.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 203,
+            "modifiedTime": 1578529055164,
+            "changeTime": 1578529055164,
+            "contentHash": "8f4e4ea531152330068e2049b8a042b6aa3381ea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/tabs",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1578529055164,
+            "changeTime": 1578529055164,
+            "contentHash": "43de90e97efc746d802b536de95205c5d611b6fd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/tabs/Volunteer_Event__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App/force-app/main/default/tabs/Volunteer_Event__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 227,
+            "modifiedTime": 1578529055165,
+            "changeTime": 1578529055165,
+            "contentHash": "fc876039b38c08618da83097bcc770c2f8cc0346",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bmccall/sfdx_projects/Volunteer-App",
+        {
+            "state": "n",
+            "sourcePath": "/Users/bmccall/sfdx_projects/Volunteer-App",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1578415767516,
+            "changeTime": 1578415767516,
+            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
