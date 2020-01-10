@@ -1,0 +1,4 @@
+<apex:page >
+  <!-- Volunteer App Home Page Banner -->
+  <apex:image id="theImage" value="{!$Resource.VolunteerBanner}" width="100%" height="100%"/>
+</apex:page>
